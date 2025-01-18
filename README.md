@@ -3,17 +3,9 @@
 	<h1> Cat-A-Mint --------------------- ദ്ദി（• ˕ •マ</h1>
 	<h1>Catamint</h1>
 	<h2>Designed for Linux Mint</h2>
-	<a href="https://github.com/meowrch/meowrch/issues">
-		<img src="https://img.shields.io/github/issues/meowrch/meowrch?color=ffb29b&labelColor=1C2325&style=for-the-badge">
-	</a>
-	<a href="https://github.com/meowrch/meowrch/stargazers">
-		<img src="https://img.shields.io/github/stars/meowrch/meowrch?color=fab387&labelColor=1C2325&style=for-the-badge">
-	</a>
 	<a href="./LICENSE">
 		<img src="https://img.shields.io/github/license/meowrch/meowrch?color=FCA2AA&labelColor=1C2325&style=for-the-badge">
 	</a>
-	<br>
-	<br>
 	<a href="./README.md">
 		<img src="https://img.shields.io/badge/README-En-blue?color=cba6f7&labelColor=1C2325&style=for-the-badge">
 	</a>
@@ -34,6 +26,10 @@
 	    <td><a href="https://linuxmint.com/">Linux Mint</a></td>
 	</tr>
 	<tr>
+	    <td>Terminal</td>
+	    <td><a href="https://github.com/kovidgoyal/kitty">Kitty</a></td>
+	</tr>
+	<tr>
 	    <td title="Window Manager">WM</td>
 	    <td><a href="https://github.com/baskerville/bspwm">BSPWM</a>
 	</tr>
@@ -44,10 +40,6 @@
 	<tr>
 	    <td>Compositor</td>
 	    <td><a href="https://github.com/yshui/picom">Picom</a> | Built-in</td>
-	</tr>
-	<tr>
-	    <td>Terminal</td>
-	    <td><a href="https://github.com/kovidgoyal/kitty">Kitty</a></td>
 	</tr>
 	<tr>
 	    <td>App Launcher</td>

@@ -132,7 +132,6 @@ Your feedback will help us improve the project and make it even more convenient 
 	</tr>
     <tr>
         <th>Name of action</th>
-        <th>Hyprland</th>
 		<th>Bspwm</th>
     </tr>
 	<tr>
@@ -198,7 +197,7 @@ Your feedback will help us improve the project and make it even more convenient 
 	<tr>
         <td>Switch to the hidden workspace</td>
 		<td>super + s</td>
-		<td>N/A</td>
+
     </tr>
     <tr>
         <td>Move the active window to another workspace</td>

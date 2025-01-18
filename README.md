@@ -1,6 +1,8 @@
 <div align="center">
 	<img src=".meta/catamint-logo.png" width="300px">
-	<h1> Catamint ≽ܫ≼</h1>
+	<h1> Cat-A-Mint --------------------- ദ്ദി（• ˕ •マ</h1>
+	<h1>Catamint</h1>
+	<h2>Designed for Linux Mint</h2>
 	<a href="https://github.com/meowrch/meowrch/issues">
 		<img src="https://img.shields.io/github/issues/meowrch/meowrch?color=ffb29b&labelColor=1C2325&style=for-the-badge">
 	</a>
@@ -13,19 +15,15 @@
 	<br>
 	<br>
 	<a href="./README.md">
-		<img src="https://img.shields.io/badge/README-RU-blue?color=cba6f7&labelColor=1C2325&style=for-the-badge">
+		<img src="https://img.shields.io/badge/README-En-blue?color=cba6f7&labelColor=1C2325&style=for-the-badge">
 	</a>
 </div>
 
 ***
-
-<br>
-<a href="https://youtu.be/KdGPDF4p5CA"><img src=".meta/assets/video-preview-youtube.png"></a>
-
 <!-- INFORMATION -->
-<table align="right">
+<table>
 	<tr>
-	    <td colspan="2" align="center">System Parameters</td>
+	    <td colspan="2" align="center"><b>System Parameters</b></td>
 	</tr>
 	<tr>
 	    <th>Component</th>
@@ -129,95 +127,95 @@ Your feedback will help us improve the project and make it even more convenient 
 <table align="center">
 <tbody>
 	<tr>
-		<td colspan="3" align="center">Key combinations</td>
+		<td colspan="2" align="center"><h3>Key combinations</h3></td>
 	</tr>
     <tr>
         <th>Name of action</th>
-		<th>Bspwm</th>
+		<th align="center">Bspwm</th>
     </tr>
 	<tr>
         <td>Open terminal</td>
-		<td colspan="2" align="center">super + enter</td>
+		<td align="center">super + enter</td>
     </tr>
     <tr>
         <td>Open the application menu</td>
-		<td colspan="2" align="center">super + d</td>
+		<td align="center">super + d</td>
     </tr>
 	<tr>
         <td>Open the file manager</td>
-		<td colspan="2" align="center">super + e</td>
+		<td align="center">super + e</td>
     </tr>
 	<tr>
         <td>Open the Firefox</td>
-		<td colspan="2" align="center">super + shift + f</td>
+		<td align="center">super + shift + f</td>
     </tr>
 	<tr>
         <td>Open the VSCode</td>
-		<td colspan="2" align="center">super + shift + c</td>
+		<td align="center">super + shift + c</td>
     </tr>
 	<tr>
         <td>Open Task Manager (btop)</td>
-		<td colspan="2" align="center">ctrl + shift + esc</td>
+		<td align="center">ctrl + shift + esc</td>
     </tr>
 	<tr>
         <td>Open a selection of emoji</td>
-		<td colspan="2" align="center">super + .</td>
+		<td align="center">super + .</td>
     </tr>
     <tr>
         <td>Open the power on/off menu of the computer</td>
-		<td colspan="2" align="center">super + x</td>
+		<td align="center">super + x</td>
     </tr>
 	<tr>
         <td>Take a screenshot</td>
-		<td colspan="2" align="center">PrintScreen</td>
+		<td align="center">PrintScreen</td>
     </tr>
 	<tr>
         <td>Change the wallpaper</td>
-		<td colspan="2" align="center">super + w</td>
+		<td align="center">super + w</td>
     </tr>
 	<tr>
         <td>Change the theme</td>
-		<td colspan="2" align="center">super + t</td>
+		<td align="center">super + t</td>
     </tr>
 	<tr>
         <td>Change the layout</td>
-		<td colspan="2" align="center">shift + alt</td>
+		<td align="center">shift + alt</td>
     </tr>
     <tr>
         <td>Recognize the color on the screen</td>
-		<td colspan="2" align="center">super + c</td>
+		<td align="center">super + c</td>
     </tr>
     <tr>
         <td>Lock the screen</td>
-        <td colspan="2" align="center">super + l</td>
+        <td align="center">super + l</td>
     </tr>
 	<tr>
         <td>Switch to another workspace</td>
-		<td colspan="2" align="center">super + 1-10</td>
+		<td align="center">super + 1-10</td>
     </tr>
 	<tr>
         <td>Switch to the hidden workspace</td>
-		<td>super + s</td>
+		<td align="center">super + s</td>
     </tr>
     <tr>
         <td>Move the active window to another workspace</td>
-		<td colspan="2" align="center">super + shift + 1-10</td>
+		<td align="center">super + shift + 1-10</td>
     </tr>
     <tr>
         <td>Switch the active window to floating mode</td>
-		<td colspan="2" align="center">super + space</td>
+		<td align="center">super + space</td>
     </tr>
 	<tr>
         <td>Switch the active window to full-size mode</td>
-		<td colspan="2" align="center">alt + enter</td>
+		<td align="center">alt + enter</td>
     </tr>
     <tr>
         <td>Close the active window</td>
-		<td colspan="2" align="center">super + q</td>
+		<td align="center">super + q</td>
     </tr>
     <tr>
         <td>Restart the window manager</td>
-		<td colspan="2" align="center">ctrl + shift + r</td>
+		<td align="center">ctrl + shift + r</td>
     </tr>
 	<tr>
 		<td>The entire configuration is in: </td>
@@ -229,5 +227,4 @@ Your feedback will help us improve the project and make it even more convenient 
 
 ***
 
-The project is actively <a href="https://github.com/meowrch/meowrch/projects">developing</a>, so you can offer your ideas for improvement.
-If you have any questions, welcome to <a href="https://t.me/meowrch">Telegram</a>
+The project is actively <a href="#">developing</a>, so you can offer your ideas for improvement.

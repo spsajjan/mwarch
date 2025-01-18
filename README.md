@@ -127,6 +127,7 @@ Your feedback will help us improve the project and make it even more convenient 
 
 <h2>💻 Hotkeys</h2>
 <table align="center">
+<tbody>
 	<tr>
 		<td colspan="3" align="center">Key combinations</td>
 	</tr>
@@ -197,7 +198,6 @@ Your feedback will help us improve the project and make it even more convenient 
 	<tr>
         <td>Switch to the hidden workspace</td>
 		<td>super + s</td>
-
     </tr>
     <tr>
         <td>Move the active window to another workspace</td>
@@ -224,6 +224,7 @@ Your feedback will help us improve the project and make it even more convenient 
 		<td>~/.config/hypr/keybindings.conf</td>
 		<td>~/.config/bspwm/sxhkdrc</td>
 	</tr>
+	</tbody>
 </table>
 
 ***

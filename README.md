@@ -1,5 +1,5 @@
 <div align="center">
-	<img src=".meta/logo.png" width="300px">
+	<img src=".meta/catamint-logo.png" width="300px">
 	<h1> Catamint ≽ܫ≼</h1>
 	<a href="https://github.com/meowrch/meowrch/issues">
 		<img src="https://img.shields.io/github/issues/meowrch/meowrch?color=ffb29b&labelColor=1C2325&style=for-the-badge">
@@ -12,11 +12,8 @@
 	</a>
 	<br>
 	<br>
-	<a href="./README.ru.md">
-		<img src="https://img.shields.io/badge/README-RU-blue?color=cba6f7&labelColor=1C2325&style=for-the-badge">
-	</a>
 	<a href="./README.md">
-		<img src="https://img.shields.io/badge/README-ENG-blue?color=C9CBFF&labelColor=C9CBFF&style=for-the-badge">
+		<img src="https://img.shields.io/badge/README-RU-blue?color=cba6f7&labelColor=1C2325&style=for-the-badge">
 	</a>
 </div>
 
@@ -36,11 +33,11 @@
 	</tr>
 	<tr>
 	    <td>OS</td>
-	    <td><a href="https://archlinux.org/">Arch Linux</a></td>
+	    <td><a href="https://linuxmint.com/">Linux Mint</a></td>
 	</tr>
 	<tr>
-	    <td>WM</td>
-	    <td><a href="https://github.com/baskerville/bspwm">BSPWM</a> | <a href="https://hyprland.org/">Hyprland</a></td>
+	    <td title="Window Manager">WM</td>
+	    <td><a href="https://github.com/baskerville/bspwm">BSPWM</a>
 	</tr>
 	<tr>
 	    <td>Bar</td>
@@ -70,24 +67,18 @@
 <div align="left">
 	<h3> 📝 About the project</h2> 
 	<p>
-	Meowrch is an Arch-based build sharpened to maximize performance, ergonomics, and beauty.
+	Catamint is a mint-based build sharpened to maximize performance, ergonomics, and beauty.
 	</p>
 	<h3>🚀 Features</h2>
 	<p>
 	• The system is fully configured for everyday comfortable use.<br>
-	• Wide customization options and <a href="https://github.com/meowrch/meowrch-themes">custom theme store</a><br>
+	• Wide customization options and much more.. <br>
 	• Hot keys are designed to ensure maximum productivity.<br>
 	• Automatic installation and configuration of the system.<br>
 	• Modern design.<br>
 	• Providing continuous and reliable support for the successful operation of the project<br>
 	</p>
 </div>
-
-> [!WARNING]
-> THIS CONFIGURATION IS INTENDED FOR MONITORS WITH A RESOLUTION OF 1920X1080,
-> SOME SHELL FUNCTIONS MAY NOT WORK PROPERLY.
-> IN THIS CASE YOU NEED TO MAKE MANUAL CHANGES.
-> IF YOU FIND ERRORS IN THE SHELL, PLEASE REPORT THE PROBLEM.
 
 <!-- IMAGES -->
 <details close> <summary><h3>🖼️ Review</h3></summary>
@@ -102,7 +93,7 @@
 
 <!-- INSTALLATION -->
 ## 🛠 Installation
-If you already have Linux Arch installed, then follow the steps below:
+If you already have Linux Mint installed, then follow the steps below:
 ### 1. Clone the repository
 ```
 git clone https://github.com/meowrch/meowrch.git

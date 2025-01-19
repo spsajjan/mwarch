@@ -34,25 +34,6 @@
 	    <td><a href="https://github.com/baskerville/bspwm">BSPWM</a>
 	</tr>
 	<tr>
-	    <td>Bar</td>
-	    <td><a href="https://github.com/polybar/polybar">Polybar</a> | <a href="https://github.com/Alexays/Waybar">Waybar</a></td>
-	</tr>
-	<tr>
-	    <td>Compositor</td>
-	    <td><a href="https://github.com/yshui/picom">Picom</a> | Built-in</td>
-	</tr>
-	<tr>
-	    <td>App Launcher</td>
-	    <td><a href="https://github.com/davatorium/rofi">Rofi</a></td>
-	</tr>
-	<tr>
-	    <td>Notify Daemon</td>
-	    <td><a href="https://github.com/dunst-project/dunst">Dunst</a></td>
-	</tr>
-	<tr>
-	    <td>Shell</td>
-	    <td><a href="https://github.com/fish-shell/fish-shell">Fish</a></td>
-	</tr>
 </table>
 <div align="left">
 	<h3> 📝 About the project</h2> 
@@ -211,7 +192,6 @@ Your feedback will help us improve the project and make it even more convenient 
     </tr>
 	<tr>
 		<td>The entire configuration is in: </td>
-		<td>~/.config/hypr/keybindings.conf</td>
 		<td>~/.config/bspwm/sxhkdrc</td>
 	</tr>
 	</tbody>

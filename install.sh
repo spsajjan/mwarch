@@ -60,7 +60,7 @@ echo -e "Wallpapers Added" && sleep 2
 echo -ne "Configuring Kitty Terminal$ov" && sleep 3
 echo -ne "Adding Kitty Terminal Background$ov" && sleep 1
 mkdir -p ~/.config/kitty/bg
-cp -R assets/terminal-bg/catamint-terminal-bg.png ~/.config/kitty/bg
+cp -R assets/terminal-bg/cm-terminal-bg.png ~/.config/kitty/bg
 mv  ~/.config/kitty/kitty.conf ~/.config/kitty/kitty-original.conf
 cp -R app-config/kitty.conf ~/.config/kitty/
 echo "Kitty Terminal Configured" && sleep 2
@@ -76,13 +76,13 @@ echo 'neofecth' >> ~/.bashrc
 fi
 
 mkdir -p ~/.config/neofetch/png
-cp -R .meta/catamint-logo.png ~/.config/neofetch/png/
+cp -R .meta/catamint-logo.png ~/.config/neofetch/pngs/
 mv  ~/.config/neofetch/config.conf ~/.config/neofetch/config-ori.conf
 cp -R app-config/neofetch-config.conf ~/.config/neofetch/
 mv  ~/.config/neofetch/neofetch-config.conf ~/.config/neofetch/config.conf
 
 echo "Neofetch Configured...."
-
+exit
 # INSTALL PYTHON DEPENDENCIES
 echo -en "Installing Python Dependencies... $ov" && sleep 2
 

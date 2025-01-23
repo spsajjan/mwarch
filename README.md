@@ -14,6 +14,7 @@
 ***
 <!-- INFORMATION -->
 <table>
+<tbody>
 	<tr>
 	    <td colspan="2" align="center"><b>System Parameters</b></td>
 	</tr>
@@ -29,11 +30,7 @@
 	    <td>Terminal</td>
 	    <td><a href="https://github.com/kovidgoyal/kitty">Kitty</a></td>
 	</tr>
-	<tr>
-	    <td title="Window Manager">WM</td>
-	    <td><a href="https://github.com/baskerville/bspwm">BSPWM</a>
-	</tr>
-	<tr>
+</tbody>
 </table>
 <div align="left">
 	<h3> 📝 About the project</h2> 

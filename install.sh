@@ -45,9 +45,8 @@ for REQUIRED_PKG in "${PKGS[@]}"; do
   fi
 done
 
-
+# Python Packages
 declare -a packages=(
-  "customtkinter"
 	"inquirer"
 	"loguru"
 	"psutil"

@@ -30,6 +30,11 @@ echo "Starting pre-install..." && sleep 3
 ov="\033[0K\r" #To overwrite the same line
 
 
+# UPGRADE THE SYSTEM
+echo "Updating and Updating the System Files..."
+sudo apt update
+sudo apt upgrade
+
 #TESTING CODE
 
 
@@ -72,10 +77,10 @@ exists=$(grep -c "neofetch" ~/.bashrc)
 if [[ $exists -gt 0 ]]; then
 echo ""
 else
-echo 'neofecth' >> ~/.bashrc
+echo 'neofetch' >> ~/.bashrc
 fi
 
-mkdir -p ~/.config/neofetch/png
+mkdir -p ~/.config/neofetch/pngs
 cp -R .meta/catamint-logo.png ~/.config/neofetch/pngs/
 mv  ~/.config/neofetch/config.conf ~/.config/neofetch/config-ori.conf
 cp -R app-config/neofetch-config.conf ~/.config/neofetch/

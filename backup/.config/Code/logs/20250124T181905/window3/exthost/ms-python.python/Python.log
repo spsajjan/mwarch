@@ -1,0 +1,19 @@
+2025-01-24 20:03:52.252 [info] Telemetry level is off
+2025-01-24 20:03:52.252 [info] Experiments are disabled, only manually opted experiments are active.
+2025-01-24 20:03:52.252 [warning] Dir "/home/celestial/Downloads/gir-repos/meowrch-main/.pixi/envs" is not watchable (directory does not exist)
+2025-01-24 20:03:52.252 [info] Starting Environment refresh
+2025-01-24 20:03:52.252 [info] Starting Environment refresh
+2025-01-24 20:03:52.252 [info] > hatch env show --json
+2025-01-24 20:03:52.252 [info] cwd: .
+2025-01-24 20:03:52.260 [info] Environments refresh finished (event): 303 milliseconds
+2025-01-24 20:03:52.260 [info] Environments refresh paths discovered: 303 milliseconds
+2025-01-24 20:03:52.260 [info] Environments refresh finished (event): 303 milliseconds
+2025-01-24 20:03:52.260 [info] Environments refresh paths discovered: 303 milliseconds
+2025-01-24 20:03:52.261 [info] Environment refresh took 305 milliseconds
+2025-01-24 20:03:52.261 [info] Environment refresh took 304 milliseconds
+2025-01-24 20:03:52.265 [info] > pyenv which python
+2025-01-24 20:03:52.265 [info] cwd: .
+2025-01-24 20:03:52.314 [info] Python interpreter path: /bin/python
+2025-01-24 20:04:02.442 [info] Starting Pylance language server.
+2025-01-24 20:17:48.485 [info] Discover tests for workspace name: meowrch-main - uri: /home/celestial/Downloads/gir-repos/meowrch-main/Builder/utils/banner.py
+2025-01-24 20:17:48.819 [info] Discover tests for workspace name: meowrch-main - uri: /home/celestial/Downloads/gir-repos/meowrch-main/Builder/utils/banner.py

@@ -1,0 +1,73 @@
+<div align="center">
+	<img src=".meta/logo.png" width="300px">
+	<h1> Cat-A-Mint --------------------- ദ്ദി（• ˕ •マ</h1>
+	<h1>Catamint</h1>
+	<h2>Designed for Linux Mint</h2>
+	<a href="./LICENSE">
+		<img src="https://img.shields.io/github/license/meowrch/meowrch?color=FCA2AA&labelColor=1C2325&style=for-the-badge">
+	</a>
+	<a href="./README.md">
+		<img src="https://img.shields.io/badge/README-En-blue?color=cba6f7&labelColor=1C2325&style=for-the-badge">
+	</a>
+</div>
+
+***
+<!-- INFORMATION -->
+<table>
+<tbody>
+	<tr>
+	    <td colspan="2" align="center"><b>System Parameters</b></td>
+	</tr>
+	<tr>
+	    <th>Component</th>
+	    <th>Name</th>
+	</tr>
+	<tr>
+	    <td>OS</td>
+	    <td><a href="https://linuxmint.com/">Linux Mint</a></td>
+	</tr>
+	<tr>
+	    <td>Terminal</td>
+	    <td><a href="https://github.com/kovidgoyal/kitty">Kitty</a></td>
+	</tr>
+</tbody>
+</table>
+<div align="left">
+	<h3> 📝 About the project</h2> 
+	<p>
+	Catamint is a mint-based build sharpened to maximize performance, ergonomics, and beauty.
+	</p>
+	<h3>🚀 Features</h2>
+	<p>
+	• The system is fully configured for everyday comfortable use.<br>
+	• Wide customization options and much more.. <br>
+	• Hot keys are designed to ensure maximum productivity.<br>
+	• Automatic installation and configuration of the system.<br>
+	• Modern design.<br>
+	• Providing continuous and reliable support for the successful operation of the project<br>
+	</p>
+</div>
+
+
+<!-- INSTALLATION -->
+## 🛠 Installation
+If you already have Linux Mint installed, then follow the steps below:
+### 1. Clone the repository
+```
+git clone https://github.com/spsajjan/catamint.git
+```
+### 2. Go to the catalog with the project
+```
+cd catamint
+```
+### 3. Start the automatic installation
+```
+sh install.sh
+```
+
+> [!important]
+> After installation, you **must** reboot to apply the changes.
+
+***
+
+The project is actively <a href="#">developing</a>, so you can offer your ideas for improvement.

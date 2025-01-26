@@ -1,0 +1,20 @@
+2025-01-24 20:03:52.630 [info] [Info  - 8:03:52 PM] (224488) Server root directory: file:///home/celestial/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist
+2025-01-24 20:03:52.630 [info] [Info  - 8:03:52 PM] (224488) Pylance language server 2024.12.1 (pyright version 1.1.389, commit ce1325fc) starting
+2025-01-24 20:03:52.630 [info] [Info  - 8:03:52 PM] (224488) Starting service instance "meowrch-main"
+2025-01-24 20:03:52.654 [info] [Info  - 8:03:52 PM] (224488) Setting environmentName for service "meowrch-main": "3.13.1 (global)"
+2025-01-24 20:03:52.654 [info] [Info  - 8:03:52 PM] (224488) Setting pythonPath for service "meowrch-main": "/bin/python"
+2025-01-24 20:03:52.654 [info] [Info  - 8:03:52 PM] (224488) No include entries specified; assuming /home/celestial/Downloads/gir-repos/meowrch-main
+2025-01-24 20:03:52.654 [info] [Info  - 8:03:52 PM] (224488) Auto-excluding **/node_modules
+2025-01-24 20:03:52.654 [info] [Info  - 8:03:52 PM] (224488) Auto-excluding **/__pycache__
+2025-01-24 20:03:52.654 [info] [Info  - 8:03:52 PM] (224488) Auto-excluding **/.*
+2025-01-24 20:03:52.680 [info] [Info  - 8:03:52 PM] (224488) Assuming Python version 3.13.1.final.0
+2025-01-24 20:03:52.737 [info] [Info  - 8:03:52 PM] (224488) Found 13 source files
+2025-01-24 20:03:53.027 [info] [Info  - 8:03:53 PM] (224488) Background analysis(1) root directory: file:///home/celestial/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist
+2025-01-24 20:03:53.029 [info] [Info  - 8:03:53 PM] (224488) Background analysis(1) started
+2025-01-24 20:03:53.087 [info] [Info  - 8:03:53 PM] (224488) Indexer background runner(2) root directory: file:///home/celestial/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist (index)
+2025-01-24 20:03:53.087 [info] [Info  - 8:03:53 PM] (224488) Indexing(2) started
+2025-01-24 20:03:53.361 [info] [Info  - 8:03:53 PM] (224488) scanned(2) 92 files over 1 exec env
+2025-01-24 20:03:53.937 [info] [Info  - 8:03:53 PM] (224488) indexed(2) 92 files over 1 exec env
+2025-01-24 20:03:53.958 [info] [Info  - 8:03:53 PM] (224488) Indexing finished(2).
+2025-01-24 20:04:02.442 [info] (Client) The existing extension didn't exit within 10 seconds. New instance will start, but you might encounter issues.
+2025-01-24 20:04:02.442 [info] (Client) Pylance async client (2024.12.1) started with python extension (2024.22.2)

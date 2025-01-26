@@ -1,0 +1,20 @@
+2025-01-24 16:27:45.618 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'attributableCoverage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-01-24 16:27:45.629 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-01-24 16:27:45.629 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.debugpy' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-01-24 16:27:45.854 [info] Started local extension host with pid 1891.
+2025-01-24 16:27:46.372 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-01-24 16:27:51.541 [error] Timed out waiting for authentication provider to register
+2025-01-24 16:27:52.275 [info] [perf] Render performance baseline is 18ms
+2025-01-24 16:32:41.356 [error] [Extension Host] Error: Cancelled
+	at i (/opt/visual-studio-code/resources/app/extensions/github-authentication/dist/extension.js:1:232913)
+	at async a.GitHubServer.login (/opt/visual-studio-code/resources/app/extensions/github-authentication/dist/extension.js:1:233476)
+	at async a.GitHubAuthenticationProvider.createSession (/opt/visual-studio-code/resources/app/extensions/github-authentication/dist/extension.js:1:228761)
+	at async pw.$createSession (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:117:3467)
+2025-01-24 16:35:09.558 [error] [Extension Host] (node:1891) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2025-01-24 16:35:20.953 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'attributableCoverage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-01-24 16:35:20.953 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-01-24 16:35:20.953 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.debugpy' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-01-24 16:35:21.092 [info] Started local extension host with pid 3519.
+2025-01-24 16:35:21.473 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-01-24 16:35:26.866 [info] [perf] Render performance baseline is 19ms

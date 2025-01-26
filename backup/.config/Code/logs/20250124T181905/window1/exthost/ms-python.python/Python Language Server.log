@@ -1,0 +1,31 @@
+2025-01-24 18:37:15.914 [info] (Client) Pylance async client (2024.12.1) started with python extension (2024.22.2)
+2025-01-24 18:37:16.235 [info] [Info  - 6:37:16 PM] (207382) Server root directory: file:///home/celestial/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist
+2025-01-24 18:37:16.235 [info] [Info  - 6:37:16 PM] (207382) Pylance language server 2024.12.1 (pyright version 1.1.389, commit ce1325fc) starting
+2025-01-24 18:37:16.236 [info] [Info  - 6:37:16 PM] (207382) Starting service instance "new-arch"
+2025-01-24 18:37:16.264 [info] [Info  - 6:37:16 PM] (207382) Setting environmentName for service "new-arch": "3.13.1 (global)"
+2025-01-24 18:37:16.264 [info] [Info  - 6:37:16 PM] (207382) Setting pythonPath for service "new-arch": "/bin/python"
+2025-01-24 18:37:16.265 [info] [Info  - 6:37:16 PM] (207382) No include entries specified; assuming /home/celestial/Documents/new-arch
+2025-01-24 18:37:16.265 [info] [Info  - 6:37:16 PM] (207382) Auto-excluding **/node_modules
+2025-01-24 18:37:16.266 [info] [Info  - 6:37:16 PM] (207382) Auto-excluding **/__pycache__
+2025-01-24 18:37:16.266 [info] [Info  - 6:37:16 PM] (207382) Auto-excluding **/.*
+2025-01-24 18:37:16.289 [info] [Info  - 6:37:16 PM] (207382) Assuming Python version 3.13.1.final.0
+2025-01-24 18:37:16.327 [info] [Info  - 6:37:16 PM] (207382) Found 1 source file
+2025-01-24 18:37:16.625 [info] [Info  - 6:37:16 PM] (207382) Background analysis(1) root directory: file:///home/celestial/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist
+2025-01-24 18:37:16.626 [info] [Info  - 6:37:16 PM] (207382) Background analysis(1) started
+2025-01-24 18:37:16.664 [info] [Info  - 6:37:16 PM] (207382) Indexer background runner(2) root directory: file:///home/celestial/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist (index)
+2025-01-24 18:37:16.664 [info] [Info  - 6:37:16 PM] (207382) Indexing(2) started
+2025-01-24 18:37:16.923 [info] [Info  - 6:37:16 PM] (207382) scanned(2) 92 files over 1 exec env
+2025-01-24 18:37:17.621 [info] [Info  - 6:37:17 PM] (207382) indexed(2) 92 files over 1 exec env
+2025-01-24 18:37:17.640 [info] [Info  - 6:37:17 PM] (207382) Indexing finished(2).
+2025-01-24 18:38:11.945 [info] [Info  - 6:38:11 PM] (207382) Starting service instance "<default>"
+2025-01-24 18:38:11.964 [info] [Info  - 6:38:11 PM] (207382) Setting environmentName for service "<default>": "3.13.1 (global)"
+2025-01-24 18:38:11.964 [info] [Info  - 6:38:11 PM] (207382) Setting pythonPath for service "<default>": "/bin/python"
+2025-01-24 18:38:11.964 [info] [Info  - 6:38:11 PM] (207382) No include entries specified; assuming /<default workspace root>
+2025-01-24 18:38:11.964 [info] [Info  - 6:38:11 PM] (207382) Auto-excluding **/node_modules
+2025-01-24 18:38:11.964 [info] [Info  - 6:38:11 PM] (207382) Auto-excluding **/__pycache__
+2025-01-24 18:38:11.964 [info] [Info  - 6:38:11 PM] (207382) Auto-excluding **/.*
+2025-01-24 18:38:11.984 [info] [Info  - 6:38:11 PM] (207382) Assuming Python version 3.13.1.final.0
+2025-01-24 18:38:12.011 [info] [Error - 6:38:12 PM] (207382) File or directory "/<default workspace root>" does not exist.
+2025-01-24 18:38:12.011 [info] [Info  - 6:38:12 PM] (207382) No source files found.
+2025-01-24 18:38:12.289 [info] [Info  - 6:38:12 PM] (207382) Background analysis(3) root directory: file:///home/celestial/.vscode/extensions/ms-python.vscode-pylance-2024.12.1/dist
+2025-01-24 18:38:12.291 [info] [Info  - 6:38:12 PM] (207382) Background analysis(3) started

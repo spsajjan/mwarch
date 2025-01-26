@@ -1,0 +1,15 @@
+2025-01-24 20:02:42.823 [info] Extension host with pid 224217 started
+2025-01-24 20:02:42.823 [info] Skipping acquiring lock for /home/celestial/.config/Code/User/workspaceStorage/99a4c44175ff39f337a742e72f9e5212.
+2025-01-24 20:02:42.847 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-01-24 20:02:42.883 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-01-24 20:02:42.885 [info] ExtensionService#_doActivateExtension DIMFLIX-OFFICIAL.meowrch-theme, startup: true, activationEvent: '*'
+2025-01-24 20:02:42.888 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-01-24 20:02:42.929 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-01-24 20:02:43.008 [info] Eager extensions activated
+2025-01-24 20:02:43.019 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-01-24 20:02:43.024 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-01-24 20:02:50.996 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-01-24 20:03:15.157 [info] ExtensionService#_doActivateExtension vscode.media-preview, startup: false, activationEvent: 'onCustomEditor:imagePreview.previewEditor'
+2025-01-24 20:03:51.766 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.debugpy
+2025-01-24 20:03:51.973 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2025-01-24 20:03:52.007 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'

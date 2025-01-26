@@ -6,11 +6,19 @@ echo "Starting pre-install..." && sleep 3
 echo "Updating the System..."
 sudo pacman -Syu
 
-# INSTALL PYTHON AND ITS DEPENDENCIES
+#==> INSTALL PYTHON AND ITS DEPENDENCIES
 echo "Installing Python Dependencies..." && sleep 2
-sudo pacman -Sy python-pip
+#######################################################
+dependencies=(python python-pip)
+for package in "${dependencies[@]}"; do
+    if ! pacman -Q $package &> /dev/null; then
+        sudo pacman -S --needed $package
+    fi
+done
+#######################################################
 
-# Python Packages
+##==> Installing python and dependencies for it
+#######################################################
 declare -a packages=(
 	"inquirer"      # Helps to ask question in shell prompt
 	"loguru"        # Logs colorful text with some decorations
@@ -29,7 +37,9 @@ done
 echo "Successfully Installed Python Dependencies" && sleep 2
 
 
-# INSTALLING PROCESS
+
 echo "Launching Installer" && sleep 2
 
-
+##==> Building the system
+#######################################################
+python Builder/install.py

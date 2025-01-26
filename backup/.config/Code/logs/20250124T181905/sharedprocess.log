@@ -1,0 +1,41 @@
+2025-01-24 18:37:00.382 [info] Getting Manifest... ms-python.python
+2025-01-24 18:37:00.600 [info] Getting Manifest... ms-python.python
+2025-01-24 18:37:00.658 [info] Installing extension: ms-python.python {"isMachineScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/celestial/.vscode/extensions/extensions.json","path":"/home/celestial/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.96.4","date":"2025-01-16T00:16:19.038Z"}}
+2025-01-24 18:37:00.754 [info] Extension is already requested to install ms-python.python vscode-userdata:/home/celestial/.vscode/extensions/extensions.json
+2025-01-24 18:37:02.014 [info] Getting Manifest... ms-python.vscode-pylance
+2025-01-24 18:37:02.090 [info] Getting Manifest... ms-python.debugpy
+2025-01-24 18:37:02.154 [info] Installing extension: ms-python.vscode-pylance {"isMachineScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/celestial/.vscode/extensions/extensions.json","path":"/home/celestial/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.96.4","date":"2025-01-16T00:16:19.038Z"},"context":{"dependecyOrPackExtensionInstall":true}}
+2025-01-24 18:37:02.154 [info] Installing extension: ms-python.debugpy {"isMachineScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/celestial/.vscode/extensions/extensions.json","path":"/home/celestial/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.96.4","date":"2025-01-16T00:16:19.038Z"},"context":{"dependecyOrPackExtensionInstall":true}}
+2025-01-24 18:37:10.307 [info] Extension signature verification result for ms-python.python: UnknownError. Executed: true. Duration: 17ms.
+2025-01-24 18:37:10.926 [info] Extracted extension to file:///home/celestial/.vscode/extensions/ms-python.python-2024.22.2-linux-x64: ms-python.python
+2025-01-24 18:37:10.969 [info] Renamed to /home/celestial/.vscode/extensions/ms-python.python-2024.22.2-linux-x64
+2025-01-24 18:37:11.054 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/celestial/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/celestial/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2025-01-24 18:37:11.656 [info] Extension signature verification result for ms-python.debugpy: UnknownError. Executed: true. Duration: 10ms.
+2025-01-24 18:37:11.864 [info] Extracted extension to file:///home/celestial/.vscode/extensions/ms-python.debugpy-2024.14.0-linux-x64: ms-python.debugpy
+2025-01-24 18:37:11.880 [info] Renamed to /home/celestial/.vscode/extensions/ms-python.debugpy-2024.14.0-linux-x64
+2025-01-24 18:37:11.962 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/celestial/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/celestial/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2025-01-24 18:37:13.125 [info] Extension signature verification result for ms-python.vscode-pylance: UnknownError. Executed: true. Duration: 11ms.
+2025-01-24 18:37:14.528 [info] Extracted extension to file:///home/celestial/.vscode/extensions/ms-python.vscode-pylance-2024.12.1: ms-python.vscode-pylance
+2025-01-24 18:37:14.649 [info] Renamed to /home/celestial/.vscode/extensions/ms-python.vscode-pylance-2024.12.1
+2025-01-24 18:37:14.663 [info] Extension installed successfully: ms-python.python vscode-userdata:/home/celestial/.vscode/extensions/extensions.json
+2025-01-24 18:37:14.663 [info] Extension installed successfully: ms-python.debugpy vscode-userdata:/home/celestial/.vscode/extensions/extensions.json
+2025-01-24 18:37:14.663 [info] Extension installed successfully: ms-python.vscode-pylance vscode-userdata:/home/celestial/.vscode/extensions/extensions.json
+2025-01-24 18:37:14.731 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/celestial/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/celestial/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)

@@ -1,7 +1,19 @@
 #!/bin/bash
 clear
-echo "Starting pre-install..." && sleep 3
+echo """
+           ▄▀▄     ▄▀▄           ▄▄▄▄▄
+          ▄█░░▀▀▀▀▀░░█▄         █░▄▄░░█
+      ▄▄  █░░░░░░░░░░░█  ▄▄    █░█  █▄█
+     █▄▄█ █░░▀░░┬░░▀░░█ █▄▄█  █░█   
+███╗░░░███░░██╗░░░░░░░██╗██████╗░░█████╗░██╗░░██╗
+████╗░████║░██║░░██╗░░██║██╔══██╗██╔══██╗██║░░██║
+██╔████╔██║░╚██╗████╗██╔╝██████╔╝██║░░╚═╝███████║
+██║╚██╔╝██║░░████╔═████║░██╔══██╗██║░░██╗██╔══██║
+██║░╚═╝░██║░░╚██╔╝░╚██╔╝░██║░░██║╚█████╔╝██║░░██║
+╚═╝░░░░░╚═░░░░╚═╝░░░╚═╝░░╚═╝░░╚═╝░╚════╝░╚═╝░░╚═╝
 
+"""
+echo "Starting pre-install..." && sleep 3
 # UPGRADE THE SYSTEM
 echo "Updating the System..."
 sudo pacman -Syu
@@ -35,8 +47,6 @@ for package in "${packages[@]}"; do
     fi
 done
 echo "Successfully Installed Python Dependencies" && sleep 2
-
-
 
 echo "Launching Installer" && sleep 2
 
